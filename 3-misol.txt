@@ -1,0 +1,5 @@
+3. Recur3. X sonini quyidagi formula yordamida N-darajaga oshiruvchi haqiqiy toifadagi
+PowerN(X,N) rekursiv funksiyasi tuzilsin: X° = 1, XN = (XN/2)2 N>0 juft bolgan holda, XN = x *xN1 N>0 toq bolgan holda, XN = 1/X-N N<0 bolganda. (X* 0 haqiqiy son, N - butun son; N juft 
+bolgan holdagi formula uchun butun sank bo'lish amalga oshirilsin). Shu funksiya yordamida 
+berilgan X sonining 3 ta darajasi (N1, N2, N3) uchun XN • dymatlari topilsin. Qayta yuklovchi 
+operatorlardan foydalanib dastur tuzing
